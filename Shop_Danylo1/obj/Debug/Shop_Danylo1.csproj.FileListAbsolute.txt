@@ -1,0 +1,12 @@
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\obj\Debug\Shop_Danylo1.csproj.AssemblyReference.cache
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\obj\Debug\Shop_Danylo1.csproj.CoreCompileInputs.cache
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\bin\Debug\Shop_Danylo1.exe.config
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\bin\Debug\Shop_Danylo1.exe
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\bin\Debug\Shop_Danylo1.pdb
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\obj\Debug\Shop_Danylo1.exe
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\obj\Debug\Shop_Danylo1.pdb
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\bin\Debug\UserDB.mdf
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\bin\Debug\UserDB_log.ldf
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\bin\Debug\Newtonsoft.Json.dll
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\bin\Debug\Newtonsoft.Json.xml
+E:\Учеба\2 курс\ООП\Проєкт\Shop_Danylo1\Shop_Danylo1\Shop_Danylo1\obj\Debug\Shop_Danylo1.csproj.CopyComplete
